@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /home/chip/.gitignore_global
+[user]
+	email = alistair.cerio@gmail.com
+	name = Alistair Cerio
