@@ -3,3 +3,5 @@
 [user]
 	email = alistair.cerio@gmail.com
 	name = Alistair Cerio
+[alias]
+    lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
